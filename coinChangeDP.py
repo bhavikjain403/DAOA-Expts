@@ -1,6 +1,3 @@
-from matplotlib.pyplot import table
-
-
 amt = int(input("Enter the amount : "))
 d = list(map(int, input("Enter the list of coin denominations : ").split()))
 n = len(d)

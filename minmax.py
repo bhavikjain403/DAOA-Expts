@@ -1,5 +1,5 @@
 def minmax(arr):
-    while len(arr)>1:
+    while len(arr)>2:
         mid = len(arr)//2
         left = arr[:mid]
         right = arr[mid:]
