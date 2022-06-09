@@ -1,1 +1,2 @@
-soln = solveNQueen(n)
+    # def nodes(self):
+    #     return (self.left, self.right)
